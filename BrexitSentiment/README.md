@@ -1,5 +1,11 @@
 # Brexit Sentiment Analysis
 
+## Purpose
+
+Lorem ipsum .....
+
+## Set up
+
 Install Requirements
 ```zsh
 $ pip install -r requirements/requirements.txt
