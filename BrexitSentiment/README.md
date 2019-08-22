@@ -1,12 +1,12 @@
 # Brexit Sentiment Analysis
 
 Install Requirements
-'''zsh
+```zsh
 $ pip install -r requirements/requirements.txt
-'''
+```
 
 Download nltk related datasets
-'''python
+```python
 import nltk
 nltk.download()
-'''
+```
