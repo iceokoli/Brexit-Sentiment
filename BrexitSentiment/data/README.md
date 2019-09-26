@@ -1,12 +1,19 @@
 # Data
 
+* 34,932 Guardian Articles
+* 1,411 CNN Articles
+* GBP/USD FX Pair
+* GBP/EUR FX Pair
+* iShares MSCI United Kingdom ETF 
+* iShares MSCI United Kingdom Small-Cap ETF
+
 ## Sources
 
-Source        |   Type   | How?
-:-------------|:--------:|:----------------------------------------------------
-Guardian      |   News   | https://open-platform.theguardian.com/documentation/
-CNN           |   News   | Web Scraping
-Alpha Vantage | Fx Rates | Free API (alpha_vantage python module)
+Source        |  Type   | How?
+:-------------|:-------:|:----------------------------------------------------
+Guardian      |  News   | https://open-platform.theguardian.com/documentation/
+CNN           |  News   | Web Scraping
+Alpha Vantage | Finance | Free API (alpha_vantage python module)
 
 ## Format
 
