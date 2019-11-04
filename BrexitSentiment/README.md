@@ -4,7 +4,10 @@
 
 What effect does positive/negative news articles affect the UK stock markets and the GBP?
 
-For simplicity, we will be using the iShares MSCI UK ETF to represent large UK companies; the iShares MSCI UK Small-cap ETF to represent small uk companies; and GBP/USD and GBP/EUR to represent the strenght of the pound.
+For simplicity, we will be using the:
+* iShares MSCI UK ETF to represent large UK companies; 
+* iShares MSCI UK Small-cap ETF to represent small uk companies; and 
+* GBP/USD and GBP/EUR to represent the strenght of the pound.
 
 ## Set up
 
