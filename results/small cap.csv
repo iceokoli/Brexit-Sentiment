@@ -1,0 +1,6 @@
+Run ID,Name,Source Type,Source Name,User,Status,crossValidation,model,numberCandidates,numberFolds,accuracy,recall,rocauc
+be7a7087e57c49b1aa8b661648a07113,,LOCAL,c:\users\iceok\documents\.virtualenvs\bsent\lib\site-packages\ipykernel_launcher.py,iceok,FINISHED,kfold,LogisticRegression,24,5,0.4782608695652174,0.4782608695652174,0.5039558845409908
+ff4644d7dea740c1bf4b426e35dcc369,,LOCAL,c:\users\iceok\documents\.virtualenvs\bsent\lib\site-packages\ipykernel_launcher.py,iceok,FINISHED,kfold,SVC,99,5,0.5253623188405797,0.5253623188405797,0.5334415270751708
+48e325407b1b4416872e1494b4a35edc,,LOCAL,c:\users\iceok\documents\.virtualenvs\bsent\lib\site-packages\ipykernel_launcher.py,iceok,FINISHED,kfold,KNN,24,5,0.48188405797101447,0.48188405797101447,0.5356821376269515
+6bc745637d1744109456184257713f00,,LOCAL,c:\users\iceok\documents\.virtualenvs\bsent\lib\site-packages\ipykernel_launcher.py,iceok,FINISHED,kfold,RandomForestClassifier,56,5,0.5163043478260869,0.5163043478260869,0.5320071990534091
+6b69a5588cb74374844cdff395a8baca,,LOCAL,c:\users\iceok\documents\.virtualenvs\bsent\lib\site-packages\ipykernel_launcher.py,iceok,FINISHED,,BaseModel,,,0.49023861171366595,,
